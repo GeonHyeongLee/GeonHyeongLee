@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 이건형입니다!  
+## 👋 안녕하세요, 이건형입니다!  
 
 차량 소프트웨어에 깊은 관심을 가진 엔지니어 지망생입니다.  
 - 🚗 **차량 사이버보안**: 차량용 악성코드 탐지 프로젝트를 통해 보안 기술 이해도를 높였습니다.  
@@ -10,8 +10,9 @@
 어떤 어려움이 있어도 끝까지 해내는 엔지니어로 성장하겠습니다.
 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgud0314)](https://solved.ac/rjsgud0314/)
+<a href="https://solved.ac/rjsgud0314/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgud0314" width="300"/>
+</a>
 
 ## 🛠️ Technical Stack
 
