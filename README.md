@@ -14,11 +14,29 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsgud0314" width="300"/>
 </a>
 
-## 🛠️ Technical Stack
+#### **Tech Stack**
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+## 🛠️ Skills & Tech Stack
+
+### 💻 Languages
+<img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+
+### 🚗 Automotive & Embedded
+<img src="https://img.shields.io/badge/RTOS-005A9B.svg?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/FreeRTOS-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/OSEK/VDX-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/CAN/CAN--FD-181717.svg?style=for-the-badge&logo=CAN-Bus&logoColor=white"> <img src="https://img.shields.io/badge/Ethernet-339933.svg?style=for-the-badge&logo=Ethernet&logoColor=white"> <img src="https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white"> <img src="https://img.shields.io/badge/Secure%20OTA-D9534F.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Power%20Electronics-F37321.svg?style=for-the-badge&logoColor=white">
+
+### 🛠️ Tools
+#### IDE & Editor
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
+
+#### Engineering & Simulation
+<img src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=matlab&logoColor=white"> <img src="https://img.shields.io/badge/CANoe-004E8A.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Infineon%20AURIX-F37321.svg?style=for-the-badge&logo=infineon&logoColor=white"> <img src="https://img.shields.io/badge/UDE%20Visual%20Platform-005A9B.svg?style=for-the-badge&logoColor=white"> 
+
+#### Development, Management & Test
+<img src="https://img.shields.io/badge/gcc-%23A4261D.svg?style=for-the-badge&logo=gnu&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Doxygen-2764A2.svg?style=for-the-badge&logo=Doxygen&logoColor=white">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
+
 
