@@ -17,6 +17,40 @@
 #### **Tech Stack**
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/aurix-F37321.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/autosar-E44D26.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/a--spice-C82333.svg?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/iso--26262-D9534F.svg?style=for-the-badge&logoColor=white">
 
+## 📂 Projects
+
+### 차량용 진단 통신 & OTA 개발 프로젝트
+🗓️ **프로젝트 기간:** 2025년 9월 ~ 2025년 10월
+
+차량용 임베디드 SW 개발 프로젝트에서 진행한 내용을 기반으로 UDS, DoIP 진단 통신을 구현하고, OTA 업데이트를 구현하였습니다.
+
+https://github.com/GeonHyeongLee/Vehicle-Communication.git
+
+
+### 차량용 임베디드 SW 개발 프로젝트
+🗓️ **프로젝트 기간:** 2025년 7월 ~ 2025년 8월
+
+**Infineon AURIX™ TC375** 보드를 기반으로 V-Model 개발 프로세스를 따라 원격 주행, 자동 주차, AEB 등 차량의 핵심 주행 보조 기능들을 직접 설계하고 구현했습니다.
+
+https://github.com/GeonHyeongLee/Embedded-SW-School-Project.git
+
+### 제네시스 G80 CAN통신 기반 IDS(침입 탐지 시스템) 설계 프로젝트
+🗓️ **프로젝트 기간:** 2024년 8월 ~ 2024년 12월
+자동차 CAN 통신 기반 IDS 개발 프로젝트를 수행하며, P-CAN Viewer를 통해 Dos, Fuzzing, Replay 공격 시나리오를 통해 163,962개 데이터를 수집하였고, 이를 Randomforest, Catboost 기반으로 Ensemble 하여 침입 탐지 모델 구축 (금상 수상)
+
+https://github.com/GeonHyeongLee/CAN-IDS-project.git
+
+### CoREP(직무혁신 팀 공모전) 자동 솜 충진 보조 장치 개발 프로젝트
+🗓️ **프로젝트 기간:** 2024년 6월 ~ 2024년 8월
+자동 숨 투입 장비 개발, Python 활용한 모터 정밀 제어 및 GUI 제작, 터치패드 연동하여 작업자 실시간 작업 진행 확인 가능하도록 개선, 과투입율 13% 감소
+
+https://github.com/GeonHyeongLee/Corep-project.git
+
+### CapSton-Desgin 프로젝트, 강화학습 기반 자율주행 알고리즘 설계 프로젝트
+🗓️ **프로젝트 기간:** 2024년 3월 ~ 2024년 6월
+AWS Deepracer 환경 내 강화학습 기반 자율주행 모델 개발, Sim2Real 문제 해결, 주행 최적화
+
+https://github.com/GeonHyeongLee/Capston-Desgin.git
 
 ## 🛠️ Skills & Tech Stack
 
